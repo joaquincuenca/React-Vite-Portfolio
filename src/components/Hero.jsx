@@ -8,15 +8,16 @@ const Hero = () => {
         </pre>
 
         <a
-            href="JOAQUIN_CUENCA_CV.pdf"
-            download
-            target="_blank"
-            rel="noopener noreferrer"
+        href="/JOAQUIN_CUENCA_CV.pdf"
+        download
+        target="_blank"
+        rel="noopener noreferrer"
         >
-            <button className="bg-yellow-400 text-black font-bold py-2 px-6 rounded hover:bg-yellow-500 transition text-sm sm:text-base">
+        <button className="bg-yellow-400 text-black font-bold py-2 px-6 rounded hover:bg-yellow-500 transition text-sm sm:text-base">
             DOWNLOAD MY CV
-            </button>
+        </button>
         </a>
+
         </section>
     )
 }
