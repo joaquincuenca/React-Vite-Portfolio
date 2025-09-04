@@ -10,6 +10,11 @@ const Projects = () => {
           <p className="text-gray-300 text-sm">Augmented Reality museum guide using Unity & Vuforia. Offline capable.</p>
         </div>
 
+        <div className="bg-[#2c2c3a] dark:bg-[#33334d] p-6 rounded-lg shadow hover:shadow-lg transition">
+          <h3 className="text-lg font-bold mb-2 text-yellow-400">WealthyDebt</h3>
+          <p className="text-gray-300 text-sm">Wealthy Debt (by FRED Financial Services) helps individuals turn debt into an asset through webinars, coaching, and tailored financial strategies—guiding them from what they owe to what they own. Built with Next.js for a fast, modern, and scalable experience.</p>
+        </div>
+
         {/* 2 */}
         <div className="bg-[#2c2c3a] dark:bg-[#33334d] p-6 rounded-lg shadow hover:shadow-lg transition">
           <h3 className="text-lg font-bold mb-2 text-yellow-400">Food Order Web App</h3>
