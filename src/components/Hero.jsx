@@ -8,7 +8,7 @@ const Hero = () => {
         </pre>
 
         <a
-            href="/JOAQUIN_CUENCA_CV.pdf"
+            href="JOAQUIN_CUENCA_CV.pdf"
             download
             target="_blank"
             rel="noopener noreferrer"
