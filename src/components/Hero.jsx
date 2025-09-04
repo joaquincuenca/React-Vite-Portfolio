@@ -9,7 +9,7 @@ const Hero = () => {
 
         <a
         href="/JOAQUIN_CUENCA_CV.pdf"
-        download
+        download="JOAQUIN_CUENCA_CV.pdf"
         target="_blank"
         rel="noopener noreferrer"
         >
